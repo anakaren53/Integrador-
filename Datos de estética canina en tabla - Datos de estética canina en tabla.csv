@@ -1,0 +1,101 @@
+ID,Nombre_Dueño,Raza_Perro,Tamaño,Tipo_Pelo,Frecuencia_Baño,Aroma_Elegido,Eficacia_Limpieza,Brillo_Pelaje,Calificacion_Final,Recomendado
+1,Elena Gomez,Golden Retriever,Grande,Largo,Quincenal,Lavanda,5,5,5,Si
+2,Carlos Ruiz,Bulldog Ingles,Mediano,Corto,Mensual,Neutro,3,2,3,No
+3,Mariana Luz,Poodle,Pequeño,Rizado,Semanal,Citrico,5,5,5,Si
+4,Jorge Soto,Mestizo,Mediano,Corto,Mensual,Herbal,4,4,4,Si
+5,Sofia Castro,Husky,Grande,Doble Capa,Bimensual,Menta,2,3,2,No
+6,Diego Vera,Chihuahua,Pequeño,Corto,Quincenal,Vainilla,5,4,5,Si
+7,Lucia Mendez,Pastor Aleman,Grande,Medio,Mensual,Lavanda,4,4,4,Si
+8,Roberto Paz,Beagle,Mediano,Corto,Quincenal,Citrico,4,3,4,Si
+9,Ana Morales,Yorkshire,Pequeño,Largo,Semanal,Rosas,5,5,5,Si
+10,Kevin Lee,Boxer,Grande,Corto,Mensual,Herbal,3,3,3,No
+11,Laura Cano,Dachshund,Pequeño,Corto,Mensual,Lavanda,4,5,4,Si
+12,Pedro S.,Labrador,Grande,Corto,Quincenal,Citrico,5,4,5,Si
+13,Monica G.,Shih Tzu,Pequeño,Largo,Semanal,Vainilla,4,5,5,Si
+14,Raul H.,Border Collie,Mediano,Largo,Mensual,Herbal,5,4,4,Si
+15,Claudia M.,Dalmata,Grande,Corto,Mensual,Neutro,4,4,4,Si
+16,Andres F.,Cocker Spaniel,Mediano,Largo,Quincenal,Rosas,3,4,3,Tal vez
+17,Beatriz L.,Pug,Pequeño,Corto,Quincenal,Citrico,4,3,4,Si
+18,Ignacio R.,Gran Danes,Extra Grande,Corto,Mensual,Herbal,5,4,5,Si
+19,Jimena T.,Maltes,Pequeño,Largo,Semanal,Vainilla,5,5,5,Si
+20,Hugo B.,Rottweiler,Grande,Corto,Bimensual,Neutro,4,3,4,Si
+21,Carla W.,Greyhound,Grande,Corto,Mensual,Menta,4,4,4,Si
+22,Samuel V.,Schnauzer,Mediano,Alambre,Quincenal,Herbal,5,4,5,Si
+23,Teresa M.,Basset Hound,Mediano,Corto,Mensual,Citrico,3,2,3,No
+24,Victor P.,Pomerania,Pequeño,Largo,Quincenal,Vainilla,5,5,5,Si
+25,Esteban J.,San Bernardo,Extra Grande,Largo,Bimensual,Herbal,4,3,4,Si
+26,Nadia L.,Doberman,Grande,Corto,Mensual,Neutro,5,5,5,Si
+27,Ramon K.,Boston Terrier,Pequeño,Corto,Quincenal,Citrico,4,4,4,Si
+28,Silvia O.,Akita,Grande,Doble Capa,Mensual,Menta,3,3,3,No
+29,Mario G.,Pitbull,Mediano,Corto,Quincenal,Herbal,5,4,5,Si
+30,Paola Z.,Chow Chow,Grande,Largo,Mensual,Vainilla,4,5,4,Si
+31,Marcos A.,Galgo,Grande,Corto,Mensual,Lavanda,4,4,4,Si
+32,Andrea R.,Shiba Inu,Mediano,Medio,Quincenal,Citrico,4,4,4,Si
+33,Luis B.,Pinscher,Pequeño,Corto,Mensual,Neutro,3,3,3,Tal vez
+34,Julia S.,Samoyedo,Grande,Largo,Mensual,Menta,4,5,4,Si
+35,Fernando D.,Shar Pei,Mediano,Corto,Bimensual,Herbal,3,2,2,No
+36,Gloria F.,Bichon Frise,Pequeño,Rizado,Semanal,Rosas,5,5,5,Si
+37,Humberto G.,Mastin,Extra Grande,Corto,Bimensual,Neutro,4,3,4,Si
+38,Irene J.,Corgi,Pequeño,Medio,Quincenal,Vainilla,5,4,5,Si
+39,Javier K.,Vizsla,Grande,Corto,Mensual,Herbal,5,4,4,Si
+40,Karla L.,Papillon,Pequeño,Largo,Quincenal,Citrico,4,5,5,Si
+41,Leonor M.,Whippet,Mediano,Corto,Mensual,Lavanda,4,4,4,Si
+42,Mateo N.,Terranova,Extra Grande,Largo,Bimensual,Menta,3,4,3,Tal vez
+43,Norma O.,Pequines,Pequeño,Largo,Mensual,Vainilla,4,4,4,Si
+44,Oscar P.,Bernes de la Montaña,Extra Grande,Largo,Mensual,Herbal,5,5,5,Si
+45,Patricia Q.,Dogo Argentino,Grande,Corto,Mensual,Neutro,4,3,3,No
+46,Quique R.,Basenji,Mediano,Corto,Quincenal,Citrico,5,4,5,Si
+47,Rosa S.,Pointer,Grande,Corto,Mensual,Herbal,4,4,4,Si
+48,Sergio T.,Airedale Terrier,Grande,Alambre,Mensual,Lavanda,4,3,4,Si
+49,Tomas U.,Basset Azul,Mediano,Corto,Quincenal,Citrico,3,3,3,No
+50,Ursula V.,Cane Corso,Extra Grande,Corto,Mensual,Herbal,5,4,5,Si
+51,Vanessa W.,Lhasa Apso,Pequeño,Largo,Quincenal,Vainilla,5,5,5,Si
+52,Walter X.,Old English Sheepdog,Grande,Largo,Mensual,Menta,3,4,3,No
+53,Ximena Y.,Jack Russell,Pequeño,Corto,Quincenal,Citrico,4,3,4,Si
+54,Yolanda Z.,Springer Spaniel,Mediano,Largo,Quincenal,Rosas,5,5,5,Si
+55,Zacarias A.,Bull Terrier,Mediano,Corto,Mensual,Neutro,4,4,4,Si
+56,Adrian B.,Collie,Grande,Largo,Quincenal,Herbal,5,5,5,Si
+57,Belinda C.,Chihuahua,Pequeño,Largo,Mensual,Vainilla,4,4,4,Si
+58,Cristian D.,Alano,Grande,Corto,Bimensual,Lavanda,3,3,3,No
+59,Dalia E.,Teckel,Pequeño,Largo,Mensual,Citrico,5,5,5,Si
+60,Eduardo F.,Husky,Grande,Doble Capa,Quincenal,Menta,4,4,4,Si
+61,Fabiana G.,Pug,Pequeño,Corto,Semanal,Neutro,5,4,5,Si
+62,Gabriel H.,Golden Retriever,Grande,Largo,Mensual,Vainilla,5,5,5,Si
+63,Hilda I.,Pequines,Pequeño,Largo,Quincenal,Rosas,4,4,4,Si
+64,Ivan J.,Labrador,Grande,Corto,Mensual,Citrico,5,5,5,Si
+65,Jessica K.,Poodle,Mediano,Rizado,Semanal,Lavanda,5,5,5,Si
+66,Kurt L.,Boxer,Grande,Corto,Mensual,Herbal,3,3,3,No
+67,Linda M.,Cocker Spaniel,Mediano,Largo,Quincenal,Vainilla,4,5,5,Si
+68,Manuel N.,Dalmata,Grande,Corto,Quincenal,Neutro,4,4,4,Si
+69,Noemi O.,Yorkshire,Pequeño,Largo,Semanal,Citrico,5,5,5,Si
+70,Orlando P.,Beagle,Mediano,Corto,Mensual,Herbal,4,3,4,Si
+71,Priscila Q.,Maltes,Pequeño,Largo,Quincenal,Vainilla,5,5,5,Si
+72,Quentin R.,Gran Danes,Extra Grande,Corto,Mensual,Neutro,5,4,5,Si
+73,Rocio S.,Shetland Sheepdog,Mediano,Largo,Mensual,Lavanda,4,5,4,Si
+74,Sebastian T.,Rottweiler,Grande,Corto,Bimensual,Herbal,4,4,4,Si
+75,Tatiana U.,Boston Terrier,Pequeño,Corto,Quincenal,Citrico,5,4,5,Si
+76,Ulises V.,Border Collie,Mediano,Largo,Quincenal,Menta,5,5,5,Si
+77,Viviana W.,Samoyedo,Grande,Doble Capa,Mensual,Vainilla,4,4,4,Si
+78,William X.,Pinscher,Pequeño,Corto,Mensual,Neutro,3,2,3,No
+79,Xandra Y.,Akita,Grande,Doble Capa,Bimensual,Herbal,3,3,3,No
+80,Yahir Z.,Mastin Napolitano,Extra Grande,Corto,Mensual,Lavanda,4,4,4,Si
+81,Alba A.,Bichon Maltes,Pequeño,Largo,Semanal,Rosas,5,5,5,Si
+82,Bruno B.,Greyhound,Grande,Corto,Mensual,Citrico,5,5,5,Si
+83,Celia C.,Schnauzer,Mediano,Alambre,Quincenal,Herbal,4,4,4,Si
+84,Dante D.,Pomerania,Pequeño,Largo,Quincenal,Vainilla,5,5,5,Si
+85,Elisa E.,San Bernardo,Extra Grande,Largo,Mensual,Lavanda,4,4,4,Si
+86,Fausto F.,Doberman,Grande,Corto,Quincenal,Neutro,5,5,5,Si
+87,Gema G.,Chihuahua,Pequeño,Corto,Mensual,Citrico,4,4,4,Si
+88,Hugo H.,Vizsla,Grande,Corto,Quincenal,Herbal,5,4,5,Si
+89,Ines I.,Corgi,Pequeño,Medio,Mensual,Vainilla,4,4,4,Si
+90,Joel J.,Shar Pei,Mediano,Corto,Mensual,Neutro,2,2,2,No
+91,Katia K.,Whippet,Mediano,Corto,Quincenal,Lavanda,4,4,4,Si
+92,Lucho L.,Terranova,Extra Grande,Largo,Bimensual,Menta,4,4,4,Si
+93,Mina M.,Jack Russell,Pequeño,Corto,Semanal,Citrico,5,4,5,Si
+94,Nico N.,Springer Spaniel,Mediano,Largo,Quincenal,Rosas,5,5,5,Si
+95,Olga O.,Bull Terrier,Mediano,Corto,Mensual,Herbal,4,3,4,Si
+96,Pavel P.,Collie,Grande,Largo,Mensual,Lavanda,5,5,5,Si
+97,Queila Q.,Dachshund,Pequeño,Corto,Quincenal,Vainilla,4,4,4,Si
+98,Ramiro R.,Alano,Grande,Corto,Mensual,Neutro,3,3,3,No
+99,Sonia S.,Shiba Inu,Mediano,Medio,Quincenal,Citrico,4,4,4,Si
+100,Tito T.,Lhasa Apso,Pequeño,Largo,Semanal,Vainilla,5,5,5,Si
